@@ -3,7 +3,7 @@ Project to recreate the classic Atari game: PONG ~ using Python and Turtle Graph
 
 **Controls for Player1 & Player2**                                                                                                  
 	**[Player1-㋡]** (**_LEFT_** paddle) uses the **'w'(up)** and **'s'(down)** keys to move paddle up and down               
-	**[Player2-㋡]** (**_RIGHT_** paddle) uses the **"Up arrow" key** and **"Down arrow" key** to move paddle up and down         
+	**[Player2-☹]** (**_RIGHT_** paddle) uses the **"Up arrow" key** and **"Down arrow" key** to move paddle up and down         
                                                                                                           
 __________________________________________________________________________________________________________
 
@@ -26,16 +26,16 @@ ________________________________________________________________________________
 in Linux (debian, ubuntu, kali, etc.) terminal type these commands:<br><br>
 <code>	
 sudo mkdir ~/git      
-</code><br>
+</code>
 <code>
 sudo cd ~/git       
-</code><br>
+</code>
 <code>
-sudo git clone https://github.com/BRuDesDev/pong.git      
-</code><<br>
+sudo git clone https://github.com/jaHSHuaBR/pong.git      
+</code>
 <code>
 cd pong       
-</code><br>
+</code>
 <code>
 python3 main.py				
-</code><br>
+</code>
