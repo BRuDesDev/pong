@@ -31,7 +31,7 @@ sudo mkdir ~/git
 sudo cd ~/git       
 </code><br>
 <code>
-sudo git clone https://github.com/jaHSHuaBR/pong.git      
+sudo git clone https://github.com/BRuDesDev/pong.git      
 </code><<br>
 <code>
 cd pong       
