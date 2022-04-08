@@ -26,16 +26,16 @@ ________________________________________________________________________________
 in Linux (debian, ubuntu, kali, etc.) terminal type these commands:<br><br>
 <code>	
 sudo mkdir ~/git      
-</code>
+</code><br>
 <code>
 sudo cd ~/git       
-</code>
+</code><br>
 <code>
 sudo git clone https://github.com/jaHSHuaBR/pong.git      
-</code>
+</code><br>
 <code>
 cd pong       
-</code>
+</code><br>
 <code>
 python3 main.py				
-</code>
+</code><br>
