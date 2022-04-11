@@ -1,4 +1,4 @@
-# [卓球]Pong
+# 🕹 Pong
 Project to recreate the classic Atari game: PONG ~ using Python and Turtle Graphics
 
 **Controls for Player1 & Player2**                                                                                                  
