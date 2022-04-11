@@ -38,4 +38,10 @@ cd pong
 </code><br>
 <code>
 python3 main.py				
-</code><br>
+</code><br><br>
+	
+<t>**[in WINDOWS]**<br>
+_Hopefully you have installed_ **Python IDLE** from python.org:<br>
+<t>****In your files, browse to the **pong** folder cloned to your PC. Right-click on the **_main.py_** file and click _Open with_ --> **'Python 3.x'**<br>(see picture below 👇)<br><br>
+
+![image](https://user-images.githubusercontent.com/103232802/162651068-e27cfe0a-de9e-4b76-9c30-e8b4c229c6dd.png)
