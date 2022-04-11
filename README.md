@@ -3,7 +3,7 @@ Project to recreate the classic Atari game: PONG ~ using Python and Turtle Graph
 
 **Controls for Player1 & Player2**                                                                                                  
 	**[Player1-㋡]** (**_LEFT_** paddle) uses the **'w'(up)** and **'s'(down)** keys to move paddle up and down               
-	**[Player2-☹]** (**_RIGHT_** paddle) uses the **"Up arrow" key** and **"Down arrow" key** to move paddle up and down         
+	**[Player2-㋡]** (**_RIGHT_** paddle) uses the **"Up arrow" key** and **"Down arrow" key** to move paddle up and down         
                                                                                                           
 __________________________________________________________________________________________________________
 
